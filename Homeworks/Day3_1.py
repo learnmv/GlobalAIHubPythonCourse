@@ -1,6 +1,5 @@
-#Explain your work
-
 #Question 1
+
 # User login application:
 # 		-Get Username and Password values from the user
 # 		-Check the values in an if statement and tell the user if they were successful.
