@@ -4,6 +4,7 @@
 # features to these classes. Create some functions with these attributes.
 # Don't forget! You have to do it using inheritance.
 
+
 class Animals():
     def __init__(self,name,tail,four_legs):
         self.name = name
